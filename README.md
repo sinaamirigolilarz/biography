@@ -24,4 +24,4 @@ I have a deep passion for AI and Machine Learning and in my spare time, I read s
 
 ## Contact Me
 - Email: sina.amiri@khu.ac.ir
-- LinkedIn: [LinkedIn Profile](linkedin.com/in/sina-amiri-golilarz-54984128b)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sina-amiri-golilarz-54984128b/)
