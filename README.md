@@ -7,28 +7,21 @@ I am particularly interested in the design and development of custom visual data
 
 ## Education
 - **Kharazmi University** – Master's degree in Computer Science
-- **University of Tehran** – Bachelor's degree in Software Engineering
 
 ## Work Experience
 - **Teaching at national universities and private institutes** – Teaching Python programming and Machine Learning, including several semesters of instruction at the National University of Skill (NUS).
 - Research and various projects in the fields of computer vision and biomedical signal processing.
 
 ## Skills
-- **Programming:** Python, C++, Java
+- **Programming:** Python
 - **Machine Learning:** scikit-learn, TensorFlow, Keras
 - **Computer Vision:** OpenCV, PIL
-- **Tools:** Git, Docker, SQL
 
-## Projects
-- [Project 1](https://github.com/yourusername/project1): Short description of the project.
-- [Project 2](https://github.com/yourusername/project2): Short description of the project.
 
 ## Interests
 I have a deep passion for AI and Machine Learning and in my spare time, I read scientific books and papers to stay updated in these fields.
 
-## Future Goals
-Currently, I am seeking opportunities to join cutting-edge research groups or pursue a Ph.D. in AI, with a strong focus on computer vision, mathematical modeling, and real-world impact.
 
 ## Contact Me
-- Email: your.email@example.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+- Email: sina.amiri@khu.ac.ir
+- LinkedIn: [LinkedIn Profile](linkedin.com/in/sina-amiri-golilarz-54984128b)
